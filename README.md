@@ -9,3 +9,4 @@ reasons:
 * cherry blossm are pink
 - cherry blossomn are pretty
 
+`inline` code
